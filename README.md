@@ -38,8 +38,8 @@ You can find me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=timoth-y&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Timothy's GitHub Stats" />
 </a>
 
-<a href="https://github.com/timoth-y/kicksware-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/timoth-y/kicksware-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/timoth-y/sneaker-recognition-ai">
