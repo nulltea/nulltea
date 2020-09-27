@@ -22,12 +22,14 @@ My name is Timothy Yalugin. I'm a full stack software engineer specialised in de
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## 🤙 Social
-You can find me on:  
-<img src="https://image.flaticon.com/icons/svg/733/733547.svg" width="30px"> [Facebook](https://www.facebook.com/timothy.yalugin)  
-<img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px"> [Instagram](https://www.instagram.com/timoth.y.y)  
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px"> [LinkedIN](https://www.linkedin.com/in/timothy-y/)   
-<img src="https://image.flaticon.com/icons/svg/2111/2111589.svg" width="30px"> [Reddit](https://www.reddit.com/user/timoth_y/)  
-<img src="https://image.flaticon.com/icons/svg/2111/2111644.svg" width="30px"> [Telegram](https://t.me/timothy_y)
+You can find me on:
+|   |   | 
+|---|---|
+|<img src="https://image.flaticon.com/icons/svg/733/733547.svg" width="30px"> | [Facebook](https://www.facebook.com/timothy.yalugin) |  
+|<img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="30px"> | [Instagram](https://www.instagram.com/timoth.y.y) | 
+|<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px"> | [LinkedIN](https://www.linkedin.com/in/timothy-y/) |  
+|<img src="https://image.flaticon.com/icons/svg/2111/2111589.svg" width="30px"> | [Reddit](https://www.reddit.com/user/timoth_y/) |
+|<img src="https://image.flaticon.com/icons/svg/2111/2111644.svg" width="30px"> | [Telegram](https://t.me/timothy_y) |
 
 ## 📈 GitHub Stats
 
