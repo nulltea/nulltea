@@ -41,9 +41,9 @@ You can find me on:
 
 ## 📌 Featured repos
 
-![kicksware-platform][kicksware-widget]
+![kicksware-platform][kicksware-widget]&emsp;&emsp;
 ![kicksware-api][kicksware-api-widget]
-![kicksware-web-app][kicksware-web-app-widget]
+![kicksware-web-app][kicksware-web-app-widget]&emsp;&emsp;
 ![sneaker-ai][sneaker-ai-widget]
 
 [windows]: https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=teal
