@@ -85,7 +85,7 @@ You can find me on:
 
 
 [stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=300
+[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=320
 [kicksware-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [kicksware-api-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [kicksware-web-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
