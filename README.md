@@ -27,7 +27,7 @@ My name is Timothy Yalugin. I'm a full stack software engineer specialised in de
 
 You can find me on:
 
-![linkedin][linkedin-logo]&emsp;&emsp;
+![linked-in][linked-in-logo]&emsp;&emsp;
 ![medium][medium-logo]&emsp;&emsp;
 ![instagram][instagram-logo]&emsp;&emsp;
 ![telegram][telegram-logo]&emsp;&emsp;
@@ -70,14 +70,14 @@ You can find me on:
 [unity]: https://img.shields.io/badge/Game-Unity-informational?style=flat&logo=unity&logoColor=white&color=teal
 [do]: https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=teal
 
-[linkedin]: https://www.linkedin.com/in/timothy-y
+[linked-in]: https://www.linkedin.com/in/timothy-y
 [medium]: https://medium.com/@timothy_y
 [telegram]: https://t.me/timothy_y
 [instagram]: https://www.instagram.com/timoth.y.y
 [reddit]: https://www.reddit.com/user/timoth_y
 [facebook]: https://www.facebook.com/timothy.yalugin
 
-[linkedin-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/linkedin.svg
+[linked-in-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/linkedin.svg
 [medium-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/medium.svg
 [telegram-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/telegram.svg
 [instagram-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/instagram.svg
