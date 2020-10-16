@@ -1,6 +1,6 @@
 # Hello and Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Timothy Yalugin. I'm a full stack software engineer specialised in designing, developing and serving complex scalable web apps and cloud solutions. I'm also moving towards System Architecture in my career path as it is my long-term goal for the future. As for today, I am in constant search of experience working with new diverse technologies, languages, workflows, and projects to gain fundamental knowledge for designing more complex, more secure, and more groundbreaking software infrastructure systems.
+My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialised in designing, developing and serving complex scalable web apps and cloud solutions. I'm also moving towards System Architecture in my career path as it is my long-term goal for the future. As for today, I am in constant search of experience working with new diverse technologies, languages, workflows, and projects to gain fundamental knowledge for designing more complex, more secure, and more groundbreaking software infrastructure systems.
 
 ## 🛠 Technologies & Tools
 
@@ -46,13 +46,6 @@ You can find me on:
 [![kicksware-web-app-widget]][kicksware-web-app]
 [![sneaker-ai-widget]][sneaker-ai]
 
-[stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=300
-[kicksware-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[kicksware-api-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[kicksware-web-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[sneaker-ai-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=sneaker-recognition-ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-
 [windows]: https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=teal
 [jetbrains]: https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=intellij&logoColor=white&color=teal
 [golang]: https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=teal
@@ -89,3 +82,11 @@ You can find me on:
 [kicksware-api]: https://github.com/timoth-y/kicksware-api
 [kicksware-web-app]: https://github.com/timoth-y/kicksware-web-app
 [sneaker-ai]: https://github.com/timoth-y/sneaker-recognition-ai
+
+
+[stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=305
+[kicksware-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[kicksware-api-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[kicksware-web-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[sneaker-ai-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=sneaker-recognition-ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true&cache_seconds=3600
