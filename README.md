@@ -4,24 +4,24 @@ My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialis
 
 ## 🛠 Technologies & Tools
 
-![golang]
-![csharp]
-![python]
-![js]
+[![golang]](https://golang.org)
+[![csharp]](https://docs.microsoft.com/en-us/dotnet/csharp)
+[![python]](https://www.python.org)
+[![js]](https://developer.mozilla.org/docs/Web/JavaScript)
 
-![mongodb]
-![postgres]
-![sql]
-![asp.net]
-![docker]
-![k8s]
-![gitlab-ci]
+[![mongodb]](https://www.mongodb.com)
+[![postgres]](https://www.postgresql.org)
+[![sql]](https://www.microsoft.com/sql-server)
+[![asp.net]](https://dotnet.microsoft.com/apps/aspnet)
+[![docker]](https://www.docker.com)
+[![k8s]](https://kubernetes.io)
+[![gitlab-ci]](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 
-![windows]
-![jetbrains]
-![fish]
-![unity]
-![do]
+[![windows]](https://www.microsoft.com/windows)
+[![jetbrains]](https://www.jetbrains.com)
+[![fish]](https://fishshell.com)
+[![unity]](https://unity.com/)
+[![do]](https://www.digitalocean.com)
 
 ## 🤙 Social
 
@@ -54,7 +54,7 @@ You can find me on:
 [js]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=teal
 [mongodb]: https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=teal
 [postgres]: https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=teal
-[sql]: https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=microsoftSQLServer&logoColor=white&color=teal
+[sql]: https://img.shields.io/badge/Tools-MS%20SQL-informational?style=flat&logo=microsoftSQLServer&logoColor=white&color=teal
 [asp.net]: https://img.shields.io/badge/Tools-ASP.NET-informational?style=flat&logo=.net&logoColor=white&color=teal
 [docker]: https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=teal
 [k8s]: https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=teal
@@ -82,7 +82,6 @@ You can find me on:
 [kicksware-api]: https://github.com/timoth-y/kicksware-api
 [kicksware-web-app]: https://github.com/timoth-y/kicksware-web-app
 [sneaker-ai]: https://github.com/timoth-y/sneaker-recognition-ai
-
 
 [stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=305
