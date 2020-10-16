@@ -1,4 +1,4 @@
-# Hello and Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello and Welcome!
 
 My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialised in designing, developing and serving complex scalable web apps and cloud solutions. I'm also moving towards System Architecture in my career path as it is my long-term goal for the future. As for today, I am in constant search of experience working with new diverse technologies, languages, workflows, and projects to gain fundamental knowledge for designing more complex, more secure, and more groundbreaking software infrastructure systems.
 
