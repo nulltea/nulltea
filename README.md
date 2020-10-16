@@ -47,7 +47,7 @@ You can find me on:
 [![sneaker-ai-widget]][sneaker-ai]
 
 [windows]: https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=teal
-[jetbrains]: https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=intellij&logoColor=white&color=teal
+[jetbrains]: https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=intellij%20idea&logoColor=white&color=teal
 [golang]: https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=teal
 [csharp]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=teal
 [python]: https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=teal
