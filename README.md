@@ -4,47 +4,47 @@ My name is Timothy Yalugin. I'm a full stack software engineer specialised in de
 
 ## 🛠 Technologies & Tools
 
-![][golang]
-![][csharp]
-![][python]
-![][js]
+![golang]
+![csharp]
+![python]
+![js]
 
-![][mongodb]
-![][postgres]
-![][sql]
-![][asp.net]
-![][docker]
-![][k8s]
-![][gitlab-ci]
+![mongodb]
+![postgres]
+![sql]
+![asp.net]
+![docker]
+![k8s]
+![gitlab-ci]
 
-![][windows]
-![][jetbrains]
-![][fish]
-![][unity]
-![][do]
+![windows]
+![jetbrains]
+![fish]
+![unity]
+![do]
 
 ## 🤙 Social
 
 You can find me on:
 
-![linked-in][linked-in-logo]&emsp;&emsp;
-![medium][medium-logo]&emsp;&emsp;
-![instagram][instagram-logo]&emsp;&emsp;
-![telegram][telegram-logo]&emsp;&emsp;
-![reddit][reddit-logo]&emsp;&emsp;
-![facebook][facebook-logo]&emsp;&emsp;
+[![linked-in-logo]][linked-in]&emsp;&emsp;
+[![medium-logo]][medium]&emsp;&emsp;
+[![instagram-logo]][instagram]&emsp;&emsp;
+[![telegram-logo]][telegram]&emsp;&emsp;
+[![reddit-logo]][reddit]&emsp;&emsp;
+[![facebook-logo]][facebook]&emsp;&emsp;
 
 ## 📊 GitHub Stats
 
-![timothy-user][stats-widget]
-![timothy-user][language-widget]
+[![stats-widget]][timothy-user]
+[![language-widget]][timothy-user]
 
 ## 📌 Featured repos
 
-![kicksware-platform][kicksware-widget]
-![kicksware-api][kicksware-api-widget]
-![kicksware-web-app][kicksware-web-app-widget]
-![sneaker-ai][sneaker-ai-widget]
+[![kicksware-widget]][kicksware-platform]
+[![kicksware-api-widget]][kicksware-api]
+[![kicksware-web-app-widget]][kicksware-web-app]
+[![sneaker-ai-widget]][sneaker-ai]
 
 [stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=300
