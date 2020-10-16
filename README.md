@@ -54,7 +54,7 @@ You can find me on:
 [js]: https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=teal
 [mongodb]: https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=teal
 [postgres]: https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=teal
-[sql]: https://img.shields.io/badge/Tools-MS%20SQL-informational?style=flat&logo=microsoftSQLServer&logoColor=white&color=teal
+[sql]: https://img.shields.io/badge/Tools-MS%20SQL-informational?style=flat&logo=microsoft%20SQL%20Server&logoColor=white&color=teal
 [asp.net]: https://img.shields.io/badge/Tools-ASP.NET-informational?style=flat&logo=.net&logoColor=white&color=teal
 [docker]: https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=teal
 [k8s]: https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=teal
