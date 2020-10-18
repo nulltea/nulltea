@@ -63,10 +63,10 @@ You can find me on:
 [unity]: https://img.shields.io/badge/Game-Unity-informational?style=flat&logo=unity&logoColor=white&color=teal
 [do]: https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=teal
 
-[linked-in]: https://www.linkedin.com/in/timothy-y
-[medium]: https://medium.com/@timothy_y
-[telegram]: https://t.me/timothy_y
-[instagram]: https://www.instagram.com/timoth.y.y
+[linked-in]: https://www.linkedin.com/in/timoth-y
+[medium]: https://medium.com/@timoth-y
+[telegram]: https://t.me/timoth-y
+[instagram]: https://www.instagram.com/timoth.io
 [reddit]: https://www.reddit.com/user/timoth_y
 [facebook]: https://www.facebook.com/timothy.yalugin
 
