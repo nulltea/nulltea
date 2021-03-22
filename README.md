@@ -56,14 +56,14 @@ You can find me on:
 [telegram]: https://t.me/timoth-y
 [instagram]: https://www.instagram.com/timoth.io
 [reddit]: https://www.reddit.com/user/timoth_y
-[facebook]: https://www.facebook.com/timothy.yalugin
+[twitter]: https://twitter.com/timoth_io
 
 [linked-in-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/linkedin.svg
 [medium-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/medium.svg
 [telegram-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/telegram.svg
 [instagram-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/instagram.svg
 [reddit-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/reddit.svg
-[facebook-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/facebook.svg
+[twitter-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/twitter.svg
 
 [timothy-user]: https://github.com/timoth-y/timoth-y
 [kicksware-platform]: https://github.com/timoth-y/kicksware-platform
