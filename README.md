@@ -17,12 +17,6 @@ My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialis
 [![k8s]](https://kubernetes.io)
 [![gitlab-ci]](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 
-[![windows]](https://www.microsoft.com/windows)
-[![jetbrains]](https://www.jetbrains.com)
-[![fish]](https://fishshell.com)
-[![unity]](https://unity.com/)
-[![do]](https://www.digitalocean.com)
-
 ## 🤙 Social
 
 You can find me on:
@@ -46,8 +40,6 @@ You can find me on:
 [![kicksware-web-app-widget]][kicksware-web-app]
 [![sneaker-ai-widget]][sneaker-ai]
 
-[windows]: https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=teal
-[jetbrains]: https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=intellij%20idea&logoColor=white&color=teal
 [golang]: https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=teal
 [csharp]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=teal
 [python]: https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=teal
@@ -59,9 +51,6 @@ You can find me on:
 [docker]: https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=teal
 [k8s]: https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=teal
 [gitlab-ci]: https://img.shields.io/badge/Tools-Gitlab_CI-informational?style=flat&logo=gitlab&logoColor=white&color=teal
-[fish]: https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=gnu-bash&logoColor=white&color=teal
-[unity]: https://img.shields.io/badge/Game-Unity-informational?style=flat&logo=unity&logoColor=white&color=teal
-[do]: https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=teal
 
 [linked-in]: https://www.linkedin.com/in/timoth-y
 [medium]: https://medium.com/@timoth-y
