@@ -26,6 +26,7 @@ You can find me on:
 [![instagram-logo]][instagram]&emsp;&emsp;
 [![telegram-logo]][telegram]&emsp;&emsp;
 [![reddit-logo]][reddit]&emsp;&emsp;
+[![twitter-logo]][twitter]&emsp;&emsp;
 
 ## 📊 GitHub Stats
 
