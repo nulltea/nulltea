@@ -35,10 +35,10 @@ You can find me on:
 
 ## 📌 Featured repos
 
-[![kicksware-widget]][kicksware-platform]
-[![kicksware-api-widget]][kicksware-api]
-[![kicksware-web-app-widget]][kicksware-web-app]
-[![sneaker-ai-widget]][sneaker-ai]
+[![chainmetric-sensorsys-widget]][chainmetric-sensorsys]
+[![chainmetric-network-widget]][chainmetric-network]
+[![chainmetric-contracts-widget]][chainmetric-contracts]
+[![chainmetric-app-widget]][chainmetric-app]
 
 [golang]: https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=teal
 [csharp]: https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=teal
@@ -67,14 +67,30 @@ You can find me on:
 [twitter-logo]: https://raw.githubusercontent.com/timoth-y/timoth-y/master/assets/twitter.svg
 
 [timothy-user]: https://github.com/timoth-y/timoth-y
-[kicksware-platform]: https://github.com/timoth-y/kicksware-platform
-[kicksware-api]: https://github.com/timoth-y/kicksware-api
-[kicksware-web-app]: https://github.com/timoth-y/kicksware-web-app
-[sneaker-ai]: https://github.com/timoth-y/sneaker-recognition-ai
 
 [stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=305
+
+[chainmetric-network-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[chainmetric-network]: https://github.com/timoth-y/chainmetric-network
+
+[chainmetric-contracts-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[chainmetric-contracts]: https://github.com/timoth-y/chainmetric-contracts
+
+[chainmetric-sensorsys-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-sensorsys&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[chainmetric-sensorsys]: https://github.com/timoth-y/chainmetric-sensorsys
+
+[chainmetric-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[chainmetric-app]: https://github.com/timoth-y/chainmetric-app
+
 [kicksware-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[kicksware-platform]: https://github.com/timoth-y/kicksware-platform
+
 [kicksware-api-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[kicksware-api]: https://github.com/timoth-y/kicksware-api
+
 [kicksware-web-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[kicksware-web-app]: https://github.com/timoth-y/kicksware-web-app
+
 [sneaker-ai-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=sneaker-recognition-ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true&cache_seconds=3600
+[sneaker-ai]: https://github.com/timoth-y/sneaker-recognition-ai
