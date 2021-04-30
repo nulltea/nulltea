@@ -69,7 +69,7 @@ You can find me on:
 [timothy-user]: https://github.com/timoth-y/timoth-y
 
 [stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues,prs&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=7&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=305
+[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=4&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=305
 
 [chainmetric-network-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [chainmetric-network]: https://github.com/timoth-y/chainmetric-network
