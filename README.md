@@ -35,7 +35,7 @@ You can find me on:
 
 ## 📌 Featured repos
 
-[![chainmetric-sensorsys-widget]][chainmetric-sensorsys]
+[![chainmetric-iot-widget]][chainmetric-iot]
 [![chainmetric-network-widget]][chainmetric-network]
 [![chainmetric-contracts-widget]][chainmetric-contracts]
 [![chainmetric-app-widget]][chainmetric-app]
@@ -77,8 +77,8 @@ You can find me on:
 [chainmetric-contracts-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [chainmetric-contracts]: https://github.com/timoth-y/chainmetric-contracts
 
-[chainmetric-sensorsys-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-sensorsys&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[chainmetric-sensorsys]: https://github.com/timoth-y/chainmetric-sensorsys
+[chainmetric-iot-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
+[chainmetric-iot]: https://github.com/timoth-y/chainmetric-iot
 
 [chainmetric-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
 [chainmetric-app]: https://github.com/timoth-y/chainmetric-app
