@@ -66,7 +66,6 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![flutter badge]](https://flutter.dev)
 [![pytorch badge]](https://pytorch.org)
 [![pandas badge]](https://pandas.pydata.org)
-[![numpy badge]](https://numpy.org)
 [![svelte badge]](https://svelte.dev)
 [![greensock badge]](https://greensock.com)
 [![rabbitmq badge]](https://www.rabbitmq.com)
