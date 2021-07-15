@@ -39,7 +39,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [fabnctl widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=fabnctl&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 [go-eventdriver widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=go-eventdriver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121820&hide_border=true
 
-## 🛠 Technologies & Tools
+## 🛠 Technologies and tools
 
 ### 👨‍💻 Programming languages
 
