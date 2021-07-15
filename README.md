@@ -19,6 +19,26 @@ and projects to gain fundamental knowledge for designing more complex, more secu
 Being greatly passioned about blockchain, distributed systems, crypto, IoT, and AI, I love combining existing solutions
 in the new ambitious ideas and turning them to reality, which is available for anyone to use through the power of open-source!
 
+## <img src="https://github.com/timoth-y/timoth-y/blob/github/update_profile/assets/coding.gif?raw=true" width="35px"> Current project
+
+[![chainmetric-iot widget]](https://github.com/timoth-y/chainmetric-iot)
+[![chainmetric-network widget]](https://github.com/timoth-y/chainmetric-network)
+[![chainmetric-contracts widget]](https://github.com/timoth-y/chainmetric-contracts)
+[![chainmetric-app widget]](https://github.com/timoth-y/chainmetric-app)
+
+[chainmetric-iot widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-network widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-contracts widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-app widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+
+## 📌 Other featured repos
+
+[![fabnctl widget]](https://github.com/timoth-y/fabnctl)
+[![go-eventdriver widget]](https://github.com/timoth-y/go-eventdriver)
+
+[fabnctl widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=fabnctl&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[go-eventdriver widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=go-eventdriver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121820&hide_border=true
+
 ## 🛠 Technologies & Tools
 
 ### 👨‍💻 Programming languages
@@ -122,11 +142,25 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 ### 💻 Tools and software
 
-[unity badge]
+[![notion badge]]()
+[![jupyter badge]]()
+[![photoshop badge]]()
+[![illustrator badge]]()
+[![maya badge]]()
+[![fusion360 badge]]()
+[![unity badge]]()
 
-## 🤙 Social
+[notion badge]: https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white
+[jetbrains badge]: https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white
+[jupyter badge]: https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white
+[photoshop badge]: https://img.shields.io/badge/Adobe%20Photoshop-308CFF?style=flat-square&logo=adobe%20photoshop&logoColor=white
+[illustrator badge]: https://img.shields.io/badge/Adobe%20Illustrator-FFBC00?style=flat-square&logo=adobe%20illustrator&logoColor=black
+[maya badge]: https://img.shields.io/badge/Autodesk%20Maya-168576?style=flat-square&logo=autodesk&logoColor=white
+[fusion360 badge]: https://img.shields.io/badge/Autodesk%20Fusion%20360-C16D2B?style=flat-square&logo=autodesk&logoColor=white
+[unity badge]: https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
 
-You can find me on:
+
+## 🙋‍♂️ Connect with me
 
 [![github badge]][linked-in]
 [![linked-in badge]][linked-in]
@@ -145,7 +179,7 @@ You can find me on:
 
 [github badge]: https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white
 [linked-in badge]: https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white
-[medium badge]: https://img.shields.io/badge/medium-12100E?&style=for-the-badge&logo=medium&logoColor=white
+[medium badge]: https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white
 [telegram badge]: https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white
 [instagram badge]: https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white
 [reddit badge]: https://img.shields.io/badge/Reddit-FF4500?&style=for-the-badge&logo=reddit&logoColor=white
@@ -153,42 +187,14 @@ You can find me on:
 
 ## 📊 GitHub Stats
 
-[![stats-widget]][timothy-user]
-[![language-widget]][timothy-user]
+[![stats widget]][timothy-user]
+[![language widget]][timothy-user]
+[![activity graph]][timothy-user]
 
-## 📌 Featured repos
-
-[![chainmetric-iot-widget]][chainmetric-iot]
-[![chainmetric-network-widget]][chainmetric-network]
-[![chainmetric-contracts-widget]][chainmetric-contracts]
-[![chainmetric-app-widget]][chainmetric-app]
-
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 [timothy-user]: https://github.com/timoth-y/timoth-y
 
-[stats-widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[language-widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=5&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&count_private=true&hide_border=true&layout=compact&card_width=305
-
-[chainmetric-network-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[chainmetric-network]: https://github.com/timoth-y/chainmetric-network
-
-[chainmetric-contracts-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[chainmetric-contracts]: https://github.com/timoth-y/chainmetric-contracts
-
-[chainmetric-iot-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[chainmetric-iot]: https://github.com/timoth-y/chainmetric-iot
-
-[chainmetric-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[chainmetric-app]: https://github.com/timoth-y/chainmetric-app
-
-[kicksware-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[kicksware-platform]: https://github.com/timoth-y/kicksware-platform
-
-[kicksware-api-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[kicksware-api]: https://github.com/timoth-y/kicksware-api
-
-[kicksware-web-app-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=kicksware-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true
-[kicksware-web-app]: https://github.com/timoth-y/kicksware-web-app
-
-[sneaker-ai-widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=sneaker-recognition-ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=171F25&hide_border=true&cache_seconds=3600
-[sneaker-ai]: https://github.com/timoth-y/sneaker-recognition-ai
+[stats widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=0D1117&hide_border=true
+[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=5&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=0D1117&count_private=true&hide_border=true&layout=compact&card_width=305
+[activity graph]: https://activity-graph.herokuapp.com/graph?username=timoth-y&bg_color=0D1117&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true
