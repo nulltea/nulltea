@@ -26,18 +26,18 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![chainmetric-contracts widget]](https://github.com/timoth-y/chainmetric-contracts)
 [![chainmetric-app widget]](https://github.com/timoth-y/chainmetric-app)
 
-[chainmetric-iot widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[chainmetric-network widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[chainmetric-contracts widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[chainmetric-app widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-iot widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-network widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-contracts widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[chainmetric-app widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 
 ## 📌 Other featured repos
 
 [![fabnctl widget]](https://github.com/timoth-y/fabnctl)
 [![go-eventdriver widget]](https://github.com/timoth-y/go-eventdriver)
 
-[fabnctl widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=fabnctl&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[go-eventdriver widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=go-eventdriver&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[fabnctl widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=fabnctl&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[go-eventdriver widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=go-eventdriver&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 
 ## 🛠 Technologies and tools
 
@@ -194,6 +194,6 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 [timothy-user]: https://github.com/timoth-y/timoth-y
 
-[stats widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=Timothy's%20GitHub%20Stats
-[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=5&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
-[activity graph]: https://activity-graph.herokuapp.com/graph?username=timoth-y&bg_color=0D1117&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
+[stats widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=Timothy's%20GitHub%20Stats
+[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=5&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
+[activity graph]: https://activity-graph.herokuapp.com/graph?username=timoth-y&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
