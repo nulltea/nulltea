@@ -19,7 +19,7 @@ and projects to gain fundamental knowledge for designing more complex, more secu
 Being greatly passioned about blockchain, distributed systems, crypto, IoT, and AI, I love combining existing solutions
 in the new ambitious ideas and turning them to reality, which is available for anyone to use through the power of open-source!
 
-## <img src="https://github.com/timoth-y/timoth-y/blob/github/update_profile/assets/coding.gif?raw=true" width="35px"> Current project
+## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="35px"> Current project
 
 [![chainmetric-iot widget]](https://github.com/timoth-y/chainmetric-iot)
 [![chainmetric-network widget]](https://github.com/timoth-y/chainmetric-network)
@@ -196,5 +196,5 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [timothy-user]: https://github.com/timoth-y/timoth-y
 
 [stats widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=Timothy's%20GitHub%20Stats
-[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=5&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=305
+[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=5&hide=css,html,less&line_height=25&title_color=ffffff&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=250
 [activity graph]: https://activity-graph.herokuapp.com/graph?username=timoth-y&bg_color=0D1117&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true
