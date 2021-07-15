@@ -155,7 +155,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [photoshop badge]: https://img.shields.io/badge/Adobe%20Photoshop-308CFF?style=flat-square&logo=adobe%20photoshop&logoColor=white
 [illustrator badge]: https://img.shields.io/badge/Adobe%20Illustrator-FFBC00?style=flat-square&logo=adobe%20illustrator&logoColor=black
 [maya badge]: https://img.shields.io/badge/Autodesk%20Maya-168576?style=flat-square&logo=autodesk&logoColor=white
-[fusion360 badge]: https://img.shields.io/badge/Autodesk%20Fusion%20360-C16D2B?style=flat-square&logo=autodesk&logoColor=white
+[fusion360 badge]: https://img.shields.io/badge/Autodesk%20Fusion%20360-DF9043?style=flat-square&logo=autodesk&logoColor=white
 [unity badge]: https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
 
 
