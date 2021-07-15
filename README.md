@@ -3,14 +3,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Cloud+and+blockchain+developer;5%2B+years+of+diverse+coding+experience;Web,+mobile,+IoT,+embedded,+and+AI;Passioned+about+creating+new+things!&font=cascadia+code&color=04AFD3&center=true&width=450&height=45">
   </a>
 </p>
 
-My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialised in designing, developing and serving complex scalable web apps and cloud solutions. I'm also moving towards System Architecture in my career path as it is my long-term goal for the future. As for today, I am in constant search of experience working with new diverse technologies, languages, workflows, and projects to gain fundamental knowledge for designing more complex, more secure, and more groundbreaking software infrastructure systems.
+My name is Timothy. 
+I am a **software engineer** specialising in designing, developing and serving scalable cloud applications and complex blockchain solutions.
+I am also moving towards Solution Architecture in my career path as it is my long-term goal for the future. 
+
+As for today, I am in constant search of experience working with new diverse technologies, languages, workflows,
+and projects to gain fundamental knowledge for designing more complex, more secure, and more groundbreaking software infrastructure systems.
+
+Being greatly passioned about blockchain, distributed systems, crypto, IoT, and AI, I love combining existing solutions
+in the new ambitious ideas and turning them to reality, which is available for anyone to use through the power of open-source!
 
 ## 🛠 Technologies & Tools
 
@@ -43,8 +50,8 @@ My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialis
 [![svelte badge]](https://svelte.dev)
 [![greensock badge]](https://greensock.com)
 [![rabbitmq badge]](https://www.rabbitmq.com)
-[![xamarin badge]](https://dotnet.microsoft.com/apps/xamarin)
 [![uwp badge]](https://docs.microsoft.com/windows/uwp)
+[![xamarin badge]](https://dotnet.microsoft.com/apps/xamarin)
 
 [hlf badge]: https://img.shields.io/badge/Hyperledger%20Fabric-373A36?style=flat-square&logo=hyperledger&logoColor=white
 [aspnet badge]: https://img.shields.io/badge/ASP.NET-572C86?style=flat-square&logo=.net&logoColor=white
@@ -107,11 +114,15 @@ My name is **Timothy Yalugin**. I'm a **full stack software engineer** specialis
 [couchdb badge]: https://img.shields.io/badge/CouchDB-EA2328?style=flat-square&logo=couchbase&logoColor=white
 [elasticsearch badge]: https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elastic&logoColor=white
 [prometheus badge]: https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white
-[mssql badge]: https://img.shields.io/badge/MS%20SQL%20Server-A91D22?style=flat-square&logo=microsoft%20sql%20server&logoColor=white
+[mssql badge]: https://img.shields.io/badge/MS%20SQL-A91D22?style=flat-square&logo=microsoft%20sql%20server&logoColor=white
 [oracle badge]: https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white
 [glusterfs badge]: https://img.shields.io/badge/GlusterFS-A2BE57?style=flat-square&logo=apache%20ant&logoColor=white
 [s3 badge]: https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon%20s3&logoColor=white
 
+
+### 💻 Tools and software
+
+[unity badge]
 
 ## 🤙 Social
 
