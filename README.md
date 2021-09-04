@@ -23,12 +23,10 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 [![chainmetric-iot widget]](https://github.com/timoth-y/chainmetric-iot)
 [![chainmetric-network widget]](https://github.com/timoth-y/chainmetric-network)
-[![chainmetric-contracts widget]](https://github.com/timoth-y/chainmetric-contracts)
 [![chainmetric-app widget]](https://github.com/timoth-y/chainmetric-app)
 
 [chainmetric-iot widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 [chainmetric-network widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[chainmetric-contracts widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-contracts&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 [chainmetric-app widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 
 ## 📌 Other featured repos
