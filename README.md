@@ -60,8 +60,8 @@ in the new ambitious ideas and turning them to reality, which is available for a
 ### 🧰 Frameworks and packages
 
 [![hlf badge]](https://www.hyperledger.org/use/fabric)
-[![aspnet badge]](https://dotnet.microsoft.com/apps/aspnet)
 [![flutter badge]](https://flutter.dev)
+[![aspnet badge]](https://dotnet.microsoft.com/apps/aspnet)
 [![pytorch badge]](https://pytorch.org)
 [![pandas badge]](https://pandas.pydata.org)
 [![svelte badge]](https://svelte.dev)
