@@ -87,7 +87,9 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![k8s badge]](https://kubernetes.io)
 [![helm badge]](https://helm.sh)
 [![docker badge]](https://www.docker.com)
+[![bazel badge]](https://bazel.build)
 [![terraform badge]](https://www.terraform.io)
+[![vault badge]](https://www.vaultproject.io)
 [![traefik badge]](https://traefik.io)
 [![aws badge]](https://aws.amazon.com)
 [![azure badge]](https://azure.microsoft.com)
@@ -100,7 +102,9 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [k8s badge]: https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white
 [helm badge]: https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white
 [docker badge]: https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white
+[bazel badge]: https://img.shields.io/badge/Bazel-43a047?style=flat-square&logo=flathub&logoColor=white
 [terraform badge]: https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white
+[vault badge]: https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white
 [traefik badge]: https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NSA2NSI+DQogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCA3LjUpIj4NCiAgICAgICAgPGc+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTI3Ljc1IDBjMi41MTcgMCA0Ljc1NCAxLjc3NyA0Ljc1NCAzLjk2NSAwIDIuMTg5LTIuMTMgMy45NjYtNC43NTQgMy45NjYtLjMgMC0uNjkyLS4wNS0xLjE3Ni0uMTQ4LS4zNzUtLjA3Ni0uNzY2LS4wMTQtMS4wOTkuMTc2TDguNDMgMTcuNjZjLS4zOC4yMTctLjUxMy43LS4yOTcgMS4wODIuMDcxLjEyNS4xNzUuMjI4LjMwMS4yOTlsMTguNDc4IDEwLjM4MWMuNDguMjcgMS4wNjUuMjcxIDEuNTQ2LjAwNGwxOC41NzktMTAuMzM1Yy4zODItLjIxMy41Mi0uNjk2LjMwNy0xLjA3OC0uMDctLjEyOC0uMTc1LS4yMzMtLjMwMS0uMzA1bC01Ljc5Ny0zLjI5M2MtLjQ4LS4yNzMtMS4wNjgtLjI3Ni0xLjU1LS4wMDdsLTYuMTIgMy4zOTZjLS4xNTUuMDg2LS4yNTYuMjQxLS4yNzUuNDE0bC0uMDAzLjA1OWMwIDIuMTg4LTIuMTMgMy45NjUtNC43NTUgMy45NjUtMi42MjQgMC00Ljc1NC0xLjc3Ny00Ljc1NC0zLjk2NSAwLTIuMTg5IDIuMTMtMy45NjYgNC43NTQtMy45NjYuMDk4IDAgLjIxLjAwNi4zMzYuMDE2bC4yLjAyLjIyMy4wMjhjLjMzOC4wNDYuNjgzLS4wMTkuOTgyLS4xODVsOS4wNS01LjAyM2MuNjkzLS4zODQgMS41My0uMzk3IDIuMjMxLS4wNGwuMDk1LjA1MiAxMi42MzcgNy4xOGMxLjU4NS45IDEuNjAzIDMuMTYzLjA2NyA0LjA5OGwtLjA4NS4wNS04LjQ1NCA0LjcwMmMtLjM4My4yMTMtLjUyLjY5Ni0uMzA4IDEuMDc4LjA3NS4xMzUuMTg4LjI0NS4zMjQuMzE3bDguMzczIDQuNDA4YzEuNjYyLjg3NCAxLjcwMiAzLjI0Mi4wNyA0LjE3MkwyOC44NTYgNDkuNjg4Yy0uNzMuNDE2LTEuNjI2LjQxNi0yLjM1NiAwTDEuMjE1IDM1LjI0NGMtMS42MzQtLjkzMy0xLjU4OS0zLjMwNi4wNzktNC4xNzZsOC40NjQtNC40MmMuMzg4LS4yMDIuNTM5LS42OC4zMzctMS4wNjktLjA3Mi0uMTM3LS4xODEtLjI1LS4zMTUtLjMyNWwtOC41NjYtNC44MTJjLTEuNTg1LS44OS0xLjYyLTMuMTQ2LS4wOTYtNC4wOTNsLjA4NC0uMDVMMjIuMjQxIDQuMzI2Yy4zMzMtLjE5LjU4NS0uNDkzLjcxMi0uODUzbC4wMjctLjA4NEMyMy43MTggMS4xODggMjUuMzk5IDAgMjcuNzUgMHptMTEuNzQgMjkuMjFMMjkuMSAzNS4xODhsLS4wOTUuMDUyYy0uNzA3LjM2NS0xLjU1MS4zNTEtMi4yNDgtLjA0MmwtMTAuMzU2LTUuODQzYy0uNDY2LS4yNjItMS4wMzItLjI3MS0xLjUwNi0uMDIzbC01Ljk3IDMuMTI0Yy0uMzg3LjIwMi0uNTM3LjY4MS0uMzM1IDEuMDcuMDcuMTM1LjE3Ny4yNDYuMzA5LjMyMkwyNy4xMzggNDQuMjljLjQ4NS4yNzggMS4wOC4yNzkgMS41NjYgMGwxOC4zOTctMTAuNTE3Yy4zOC0uMjE3LjUxMS0uNzAxLjI5NS0xLjA4Mi0uMDc1LS4xMzEtLjE4NS0uMjM5LS4zMTktLjMxbC02LjA2NS0zLjJjLS40NzktLjI1Mi0xLjA1My0uMjQyLTEuNTIzLjAyOHoiLz4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvZz4NCiAgICA8L2c+DQoNCjwvc3ZnPg==&logoColor=white
 [aws badge]: https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white
 [azure badge]: https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft%20azure&logoColor=white
