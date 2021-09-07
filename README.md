@@ -47,7 +47,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![dart badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Adart+fork%3Atrue&type=repositories)
 [![kotlin badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Akt&type=Code)
 [![javascript badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Ajs&type=Code)
-[![bash badge]](https://img.shields.io/badge/Bash-89E051?style=flat-square&logo=gnu-bash&logoColor=black)
+[![bash badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Ash&type=Code)
 
 [go badge]: https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white
 [c# badge]: https://img.shields.io/badge/C%23-178600?style=flat-square&logo=c-sharp&logoColor=white
