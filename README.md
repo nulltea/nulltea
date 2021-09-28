@@ -54,7 +54,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [python badge]: https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white
 [dart badge]: https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white
 [kotlin badge]: https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white
-[javascript badge]: https://img.shields.io/badge/Java%20Script-EDD72A?style=flat-square&logo=javascript&logoColor=black
+[javascript badge]: https://img.shields.io/badge/JavaScript-EDD72A?style=flat-square&logo=javascript&logoColor=black
 [bash badge]: https://img.shields.io/badge/Bash-89E051?style=flat-square&logo=gnu-bash&logoColor=black
 
 ### 🧰 Frameworks and packages
