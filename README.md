@@ -10,7 +10,7 @@
 </p>
 
 My name is Timothy. 
-I am a **software engineer** specializing in designing, developing, and maintaining scalable cloud applications and complex blockchain solutions.
+I am a **software engineer** specializing in designing, developing, and maintaining distributed cloud applications and blockchain solutions.
 I am also moving towards Solution Architecture in my career path as it is my long-term goal for the future. 
 
 As for today, I am in constant search of experience working with new diverse technologies, languages, workflows,
