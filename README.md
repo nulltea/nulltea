@@ -167,9 +167,6 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![linked-in badge]][linked-in]
 [![medium badge]][medium]
 [![twitter badge]][twitter]
-[![instagram badge]][instagram]
-[![reddit badge]][reddit]
-[![telegram badge]][telegram]
 
 [linked-in]: https://www.linkedin.com/in/timoth-y
 [medium]: https://medium.com/@timoth-y
