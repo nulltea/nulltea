@@ -161,7 +161,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [unity badge]: https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
 
 
-## 🤙 Let's Connect
+## 🆔 Digital identity
 
 [![github badge]][linked-in]
 [![linked-in badge]][linked-in]
