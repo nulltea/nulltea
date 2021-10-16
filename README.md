@@ -163,11 +163,10 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 ## 🆔 Digital identity
 
-[![github badge]][linked-in]
 [![linked-in badge]][linked-in]
 [![medium badge]][medium]
-[![twitter badge]][keybase]
-[![keybase badge]][medium]
+[![twitter badge]][twitter]
+[![keybase badge]][keybase]
 
 [linked-in]: https://www.linkedin.com/in/timoth-y
 [medium]: https://medium.com/@timoth-y
