@@ -166,7 +166,8 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![github badge]][linked-in]
 [![linked-in badge]][linked-in]
 [![medium badge]][medium]
-[![twitter badge]][twitter]
+[![twitter badge]][keybase]
+[![keybase badge]][medium]
 
 [linked-in]: https://www.linkedin.com/in/timoth-y
 [medium]: https://medium.com/@timoth-y
@@ -174,6 +175,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [instagram]: https://www.instagram.com/timoth.io
 [reddit]: https://www.reddit.com/user/timoth_y
 [twitter]: https://twitter.com/timoth_io
+[keybase]: https://keybase.io/ethotim
 
 [github badge]: https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white
 [linked-in badge]: https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white
@@ -182,6 +184,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [instagram badge]: https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white
 [reddit badge]: https://img.shields.io/badge/Reddit-FF4500?&style=for-the-badge&logo=reddit&logoColor=white
 [twitter badge]: https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white
+[keybase badge]: https://img.shields.io/badge/Keybase-3663ea?&style=for-the-badge&logo=keybase&logoColor=white
 
 ## 📊 GitHub Stats
 
