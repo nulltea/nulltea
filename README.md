@@ -42,14 +42,16 @@ in the new ambitious ideas and turning them to reality, which is available for a
 ### 👨‍💻 Programming languages
 
 [![go badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Ago+fork%3Atrue&type=repositories)
-[![c# badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Acsharp+fork%3Atrue&type=repositories)
+[![rust badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Arust+fork%3Atrue&type=repositories)
 [![python badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Apython+fork%3Atrue&type=repositories)
+[![c# badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Acsharp+fork%3Atrue&type=repositories)
 [![dart badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Adart+fork%3Atrue&type=repositories)
 [![kotlin badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Akt&type=Code)
 [![javascript badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Ajs&type=Code)
 [![bash badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Ash&type=Code)
 
 [go badge]: https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white
+[rust badge]: https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black
 [c# badge]: https://img.shields.io/badge/C%23-178600?style=flat-square&logo=c-sharp&logoColor=white
 [python badge]: https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white
 [dart badge]: https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white
@@ -59,17 +61,19 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 ### 🧰 Frameworks and packages
 
+[![substrate badge]](https://substrate.io)
 [![hlf badge]](https://www.hyperledger.org/use/fabric)
 [![flutter badge]](https://flutter.dev)
 [![aspnet badge]](https://dotnet.microsoft.com/apps/aspnet)
 [![pytorch badge]](https://pytorch.org)
 [![pandas badge]](https://pandas.pydata.org)
-[![svelte badge]](https://svelte.dev)
-[![greensock badge]](https://greensock.com)
+[![react badge]](https://reactjs.org)
+[![polkadotjs badge]](https://polkadot.js.org/docs)
 [![rabbitmq badge]](https://www.rabbitmq.com)
 [![uwp badge]](https://docs.microsoft.com/windows/uwp)
 [![xamarin badge]](https://dotnet.microsoft.com/apps/xamarin)
 
+[substrate badge]: https://img.shields.io/badge/Substrate_-282828?style=flat-square&logo=Parity%20Substrate&logoColor=white
 [hlf badge]: https://img.shields.io/badge/Hyperledger%20Fabric-373A36?style=flat-square&logo=hyperledger&logoColor=white
 [aspnet badge]: https://img.shields.io/badge/ASP.NET-572C86?style=flat-square&logo=.net&logoColor=white
 [flutter badge]: https://img.shields.io/badge/Flutter-1489FD?style=flat-square&logo=flutter&logoColor=white
@@ -78,8 +82,8 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [numpy badge]: https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
 [pytorch badge]: https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
 [rabbitmq badge]: https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white
-[svelte badge]: https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white
-[greensock badge]:https://img.shields.io/badge/GreenSock-75AD0A?style=flat-square&logo=greensock&logoColor=white
+[react badge]: https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
+[polkadotjs badge]:https://img.shields.io/badge/Polkadot{.js}-FF981A?style=flat-square&logo=js&logoColor=white
 [xamarin badge]: https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white
 
 ### 📡 Infrastructure and DevOps
