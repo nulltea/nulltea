@@ -69,9 +69,6 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![pandas badge]](https://pandas.pydata.org)
 [![react badge]](https://reactjs.org)
 [![polkadotjs badge]](https://polkadot.js.org/docs)
-[![rabbitmq badge]](https://www.rabbitmq.com)
-[![uwp badge]](https://docs.microsoft.com/windows/uwp)
-[![xamarin badge]](https://dotnet.microsoft.com/apps/xamarin)
 
 [substrate badge]: https://img.shields.io/badge/Substrate_-282828?style=flat-square&logo=Parity%20Substrate&logoColor=white
 [hlf badge]: https://img.shields.io/badge/Hyperledger%20Fabric-373A36?style=flat-square&logo=hyperledger&logoColor=white
@@ -123,27 +120,22 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![mongodb badge]](https://www.mongodb.com)
 [![postgresql badge]](https://www.postgresql.org)
 [![redis badge]](https://redis.io)
-[![dynamodb badge]](https://aws.amazon.com/dynamodb)
+[![etcd badge]](https://etcd.io)
 [![couchdb badge]](https://couchdb.apache.org)
 [![elasticsearch badge]](https://www.elastic.co/elasticsearch)
 [![prometheus badge]](https://prometheus.io)
-[![mssql badge]](https://microsoft.com/sql-server)
-[![oracle badge]](https://www.oracle.com/database)
+[![ipfs badge]](https://ipfs.io)
 [![glusterfs badge]](https://www.gluster.org)
-[![s3 badge]](https://aws.amazon.com/s3)
 
 [mongodb badge]: https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white
 [postgresql badge]: https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white
 [redis badge]: https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
-[dynamodb badge]: https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon%20dynamodb&logoColor=white
+[etcd badge]: https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white
 [couchdb badge]: https://img.shields.io/badge/CouchDB-EA2328?style=flat-square&logo=couchbase&logoColor=white
 [elasticsearch badge]: https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elastic&logoColor=white
 [prometheus badge]: https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white
-[mssql badge]: https://img.shields.io/badge/MS%20SQL-A91D22?style=flat-square&logo=microsoft%20sql%20server&logoColor=white
-[oracle badge]: https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white
+[ipfs badge]: https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white
 [glusterfs badge]: https://img.shields.io/badge/GlusterFS-A2BE57?style=flat-square&logo=apache%20ant&logoColor=white
-[s3 badge]: https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon%20s3&logoColor=white
-
 
 ### 💻 Tools and software
 
