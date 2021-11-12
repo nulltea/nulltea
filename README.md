@@ -147,6 +147,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 ### 💻 Tools and software
 
+[![obsidian badge]](https://obsidian.md)
 [![notion badge]]()
 [![jupyter badge]]()
 [![photoshop badge]]()
@@ -155,6 +156,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![fusion360 badge]]()
 [![unity badge]]()
 
+[obsidian badge]: https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white
 [notion badge]: https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white
 [jetbrains badge]: https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white
 [jupyter badge]: https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white
