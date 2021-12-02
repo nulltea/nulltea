@@ -93,7 +93,6 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [![vault badge]](https://www.vaultproject.io)
 [![traefik badge]](https://traefik.io)
 [![self hosting badge]](https://github.com/awesome-selfhosted/awesome-selfhosted)
-[![github actions badge]](https://github.com/features/actions)
 [![gitlab badge]](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration)
 [![teamcity badge]](https://www.jetbrains.com/teamcity)
 
