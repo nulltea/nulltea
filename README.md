@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Timothy's profile!
+  Welcome to Timofey's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-My name is Timothy. 
+My name is Timofey. 
 I am a **software engineer** specializing in designing, developing, and maintaining distributed cloud applications and blockchain solutions.
 I am also moving towards Solution Architecture in my career path as it is my long-term goal for the future. 
 
