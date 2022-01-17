@@ -136,11 +136,8 @@ in the new ambitious ideas and turning them to reality, which is available for a
 ### 💻 Tools and software
 
 [![obsidian badge]](https://obsidian.md)
-[![notion badge]]()
 [![jupyter badge]]()
 [![photoshop badge]]()
-[![illustrator badge]]()
-[![maya badge]]()
 [![fusion360 badge]]()
 [![unity badge]]()
 
