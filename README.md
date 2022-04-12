@@ -21,21 +21,13 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="35px"> Current project
 
-[![chainmetric-iot widget]](https://github.com/timoth-y/chainmetric-iot)
-[![chainmetric-network widget]](https://github.com/timoth-y/chainmetric-network)
-[![chainmetric-app widget]](https://github.com/timoth-y/chainmetric-app)
+[![tss-libp2p widget]](https://github.com/timoth-y/tss-libp2p)
+[![obsidian-hackmd widget]](https://github.com/timoth-y/obsidian-hackmd)
+[![obsidian-ticktick widget]](https://github.com/timoth-y/obsidian-ticktick)
 
-[chainmetric-iot widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-iot&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[chainmetric-network widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-network&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[chainmetric-app widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=chainmetric-app&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-
-## 📌 Other featured repos
-
-[![fabnctl widget]](https://github.com/timoth-y/fabnctl)
-[![go-eventdriver widget]](https://github.com/timoth-y/go-eventdriver)
-
-[fabnctl widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=fabnctl&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[go-eventdriver widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=go-eventdriver&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[tss-libp2p widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=tss-libp2p&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[obsidian-hackmd widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=obsidian-hackmd&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[obsidian-ticktick widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=obsidian-ticktick&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 
 ## 🛠 Technologies and tools
 
