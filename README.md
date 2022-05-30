@@ -88,7 +88,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 
 [![stats widget]][timothy-user]
 [![language widget]][timothy-user]
-[![activity graph]][timothy-user]
+<!-- [![activity graph]][timothy-user] -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
