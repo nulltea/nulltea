@@ -23,7 +23,7 @@ and projects to gain fundamental knowledge for designing more complex, more secu
 Being greatly passioned about blockchain, distributed systems, crypto, IoT, and AI, I love combining existing solutions
 in the new ambitious ideas and turning them to reality, which is available for anyone to use through the power of open-source!
 
-## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="35px"> Current project
+## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40"> Current project
 
 [![tss-libp2p widget]](https://github.com/timoth-y/tss-libp2p)
 [![obsidian-hackmd widget]](https://github.com/timoth-y/obsidian-hackmd)
