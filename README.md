@@ -22,7 +22,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40"> Current project
 
 [![tss-libp2p widget]](https://github.com/timoth-y/tss-libp2p)
-[![zk-sql widget]](https://github.com/timoth-y/zl-sql)
+[![zk-sql widget]](https://github.com/timoth-y/zk-sql)
 [![scriptless-zkcp widget]](https://github.com/timoth-y/scriptless-zkcp)
 <!-- [![obsidian-hackmd widget]](https://github.com/timoth-y/obsidian-hackmd) -->
 <!-- [![obsidian-ticktick widget]](https://github.com/timoth-y/obsidian-ticktick) -->
