@@ -1,7 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
----
-
 <h1 align="center">
   Welcome to Timofey's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -26,10 +22,15 @@ in the new ambitious ideas and turning them to reality, which is available for a
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40"> Current project
 
 [![tss-libp2p widget]](https://github.com/timoth-y/tss-libp2p)
-[![obsidian-hackmd widget]](https://github.com/timoth-y/obsidian-hackmd)
-[![obsidian-ticktick widget]](https://github.com/timoth-y/obsidian-ticktick)
+[![zk-sql widget]](https://github.com/timoth-y/zl-sql)
+[![scriptless-zkcp widget]](https://github.com/timoth-y/scriptless-zkcp)
+<!-- [![obsidian-hackmd widget]](https://github.com/timoth-y/obsidian-hackmd) -->
+<!-- [![obsidian-ticktick widget]](https://github.com/timoth-y/obsidian-ticktick) -->
 
 [tss-libp2p widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=tss-libp2p&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[zk-sql widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=zk-sql&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+[scriptless-zkcp widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=scriptless-zkcp&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
+
 [obsidian-hackmd widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=obsidian-hackmd&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 [obsidian-ticktick widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=obsidian-ticktick&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
 
