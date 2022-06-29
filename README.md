@@ -110,7 +110,7 @@ in the new ambitious ideas and turning them to reality, which is available for a
 [linked-in]: https://www.linkedin.com/in/timoth-y
 [medium]: https://medium.com/@timoth-y
 [telegram]: https://t.me/timoth-y
-[twitter]: https://twitter.com/timoth_io
+[twitter]: https://twitter.com/ethotim
 [keybase]: https://keybase.io/ethotim
 
 [linked-in badge]: https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white
