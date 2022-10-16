@@ -1,89 +1,31 @@
 <h1 align="center">
-  Welcome to Timofey's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey! I'm Timofey<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Blockchain%20R%26D%20and%20Protocol%20Engineer;5%2B+years+of+diverse+coding+experience;Web,+mobile,+IoT,+embedded,+and+ML;Passionate+about+creating+new+things!&font=cascadia+code&color=04AFD3&center=true&width=450&height=45">
-  </a>
-</p>
+I am an enthusiastic researcher in cryptography and distributed systems, and I enjoy sharing my findings and knowledge 🤓 I design blockchain-oriented protocols and develop web3 infrastructure 🌉 
 
-My name is Timofey. 
-I am a **software engineer** specializing in designing, developing, and maintaining distributed cloud applications and blockchain solutions.
-I am also moving towards Solution Architecture in my career path as it is my long-term goal for the future. 
+There are many things that I find interesting, but if picking those I focus on most, then it would be: 1️⃣ verifiable and private computation w/ **ZK** and **MPC** 2️⃣ secure blockchain scaling w/ **data-availability sampling (DAS)**, and 3️⃣ chain and network layer **privacy**.
 
-As for today, I am in constant search of experience working with new diverse technologies, languages, workflows,
-and projects to gain fundamental knowledge for designing more complex, more secure, and more groundbreaking software infrastructure systems.
+I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
-Being greatly passioned about blockchain, distributed systems, crypto, IoT, and AI, I love combining existing solutions
-in the new ambitious ideas and turning them to reality, which is available for anyone to use through the power of open-source!
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40"> Current project
-
-[![tss-libp2p widget]](https://github.com/timoth-y/tss-libp2p)
-[![zk-sql widget]](https://github.com/timoth-y/zk-sql)
-[![scriptless-zkcp widget]](https://github.com/timoth-y/scriptless-zkcp)
-<!-- [![obsidian-hackmd widget]](https://github.com/timoth-y/obsidian-hackmd) -->
-<!-- [![obsidian-ticktick widget]](https://github.com/timoth-y/obsidian-ticktick) -->
-
-[tss-libp2p widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=tss-libp2p&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[zk-sql widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=zk-sql&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[scriptless-zkcp widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=scriptless-zkcp&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-
-[obsidian-hackmd widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=obsidian-hackmd&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-[obsidian-ticktick widget]: https://github-readme-stats.vercel.app/api/pin/?username=timoth-y&repo=obsidian-ticktick&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true
-
-<!-- 
-## 🛠 Technologies and tools
-
-### 👨‍💻 Programming languages
-
-[![go badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Ago+fork%3Atrue&type=repositories)
-[![rust badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Arust+fork%3Atrue&type=repositories)
-[![python badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Apython+fork%3Atrue&type=repositories)
-[![c# badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Acsharp+fork%3Atrue&type=repositories)
-[![dart badge]](https://github.com/search?q=user%3Atimoth-y+is%3Arepo+language%3Adart+fork%3Atrue&type=repositories)
-[![javascript badge]](https://github.com/search?q=user%3Atimoth-y+extension%3Ajs&type=Code)
-
-[go badge]: https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white
-[rust badge]: https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black
-[c# badge]: https://img.shields.io/badge/C%23-178600?style=flat-square&logo=c-sharp&logoColor=white
-[python badge]: https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white
-[dart badge]: https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white
-[javascript badge]: https://img.shields.io/badge/JavaScript-EDD72A?style=flat-square&logo=javascript&logoColor=black
-
-### 🧰 Frameworks and packages
-
-[![substrate badge]](https://substrate.io)
-[![hlf badge]](https://www.hyperledger.org/use/fabric)
-[![flutter badge]](https://flutter.dev)
-[![aspnet badge]](https://dotnet.microsoft.com/apps/aspnet)
-[![pytorch badge]](https://pytorch.org)
-[![pandas badge]](https://pandas.pydata.org)
-[![react badge]](https://reactjs.org)
-
-[substrate badge]: https://img.shields.io/badge/Substrate_-282828?style=flat-square&logo=Parity%20Substrate&logoColor=white
-[hlf badge]: https://img.shields.io/badge/Hyperledger%20Fabric-373A36?style=flat-square&logo=hyperledger&logoColor=white
-[aspnet badge]: https://img.shields.io/badge/ASP.NET-572C86?style=flat-square&logo=.net&logoColor=white
-[flutter badge]: https://img.shields.io/badge/Flutter-1489FD?style=flat-square&logo=flutter&logoColor=white
-[pandas badge]: https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white
-[pytorch badge]: https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
-[react badge]: https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
-
-
-### 💻 Tools and software
-
-[![obsidian badge]](https://obsidian.md)
-[![photoshop badge]]()
-[![fusion360 badge]]()
-[![unity badge]]()
-
-[obsidian badge]: https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white
-[photoshop badge]: https://img.shields.io/badge/Adobe%20Photoshop-308CFF?style=flat-square&logo=adobe%20photoshop&logoColor=white
-[fusion360 badge]: https://img.shields.io/badge/Autodesk%20Fusion%20360-DF9043?style=flat-square&logo=autodesk&logoColor=white
-[unity badge]: https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
- -->
+- [✅ **zk-timelock:** artworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
+- [✅ **tlock-rs:** practical time-lock encryption using `drand` threshold network](https://github.com/timoth-y/tlock-rs) (Rust)
+- [✅ **zk-SQL:** prover engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL) (Circom, TypeScript)
+- [✅ **tss-libp2p:** rust-libp2p transport for {t,n}-threshold signature schemes](https://github.com/timoth-y/tss-libp2p) (Rust)
+<dl>
+<dd>
+<details>
+<summary> 👀 See more: </summary>
+	<li><a href="https://github.com/timoth-y/two-party-adapto">✅ <b>2-party-adaptor:</b> joint adaptor signatures generation </a> (Rust)</li>
+  <li><a href="https://github.com/timoth-y/contangle-zkcp">❄️ <b>contangle-zkcp:</b> universal zero-knowledge contingent payments </a> (Rust)</li>
+  <li><a href="https://github.com/ChainSafe/go-signature-adaptor">✅ <b>go-signature-adaptor:</b> pure Go implementation of ECDSA signature adaptors</a> (Go)</li>
+  <li><a href="https://github.com/timoth-y/obsidian-ticktick">❄️ <b>obsidian-ticktick:</b> sync Obsidian checklists with TickTick</a> (TypeScript)</li>
+  <li><a href="https://github.com/timoth-y/obsidian-hackmd">❄️ <b>obsidian-hackmd:</b> publish Obsidian notes to HackMD</a> (TypeScript)</li>
+</details>
+</dd>
+</dl>
 
 ## 📊 GitHub Stats
 
