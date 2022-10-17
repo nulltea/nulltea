@@ -64,9 +64,9 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 
 ## 📬 Reach me
 
+[![twitter badge]](https://twitter.com/ethotim)
 [![linked-in badge]](https://www.linkedin.com/in/timoth-y)
 [![medium badge]](https://medium.com/@timofe-y)
-[![twitter badge]](https://twitter.com/ethotim)
 [![keybase badge]](https://keybase.io/ethotim)
 
 [linked-in badge]: https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white
