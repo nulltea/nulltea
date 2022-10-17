@@ -2,14 +2,14 @@
   Hey! I'm Timofey<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
 </h1>
 
-I am an enthusiastic researcher in cryptography and distributed systems, and I enjoy sharing my findings and knowledge 🤓 I design blockchain-oriented protocols and develop web3 infrastructure 🌉 
+I am an enthusiastic researcher in cryptography and distributed systems, and I enjoy sharing my findings 🤓 I design blockchain-oriented protocols and develop web3 infrastructure 🌉 
 
 There are many things that I find interesting, but if picking those I focus on most, then it would be: 1️⃣ verifiable and private computation w/ **ZK** and **MPC** 2️⃣ secure blockchain scaling w/ **data-availability sampling (DAS)**, and 3️⃣ chain and network layer **privacy**.
 
 I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
 
-## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current project
+## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current projects
 - [✅ **zk-timelock:** artworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
 - [✅ **tlock-rs:** practical time-lock encryption using `drand` threshold network](https://github.com/timoth-y/tlock-rs) (Rust)
 - [✅ **zk-SQL:** prover engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL) (Circom, TypeScript)
@@ -27,12 +27,27 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 </dd>
 </dl>
 
-## <img align="top" src="https://media.giphy.com/media/l4Ah2V9VDkRHCL7cE9/giphy.gif" width="30">Previous projects
+## <img align="top" src="https://media.giphy.com/media/l4Ah2V9VDkRHCL7cE9/giphy.gif" width="30"> Previous projects
 - [**chainmetric-iot:** embedded sensor system for publishing environment data onto the Hyperledger Fabric blockchain](https://github.com/timoth-y/chainmetric-iot) (Go)
 - [**chainmetric-app:** mobile app for the IoT-enabled supply chain blockchain](https://github.com/timoth-y/chainmetric-app) (Dart, Kotlin, Go)
 - [**fabnctl:** CLI for deploying HL Fabric chains to Kubernetes](https://github.com/timoth-y/fabnctl) (Go)
 - [**kicksware:** cloud-native microservice-based sneaker resale platform](https://github.com/timoth-y/kicksware-platform) (Go, C#)
-- more in the pinned repos 👇
+- See more in the pinned repos 👇
+
+## <img align="top" src="https://media.giphy.com/media/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="30"> Publications
+- [A Defense-in-Depth Approach: Notes on Sygma Security](https://medium.com/buildwithsygma/a-defense-in-depth-approach-notes-on-sygma-security-af7521c79ddb) (Security, MPC)
+- [Multi-Party Computation: The Next Generation of Crypto Security](https://medium.com/buildwithsygma/multi-party-computation-the-next-generation-of-crypto-security-d83d60d622d0) (MPC)
+- [Offchain and Scriptless Mixer](https://ethresear.ch/t/offchain-and-scriptless-mixer/12851) (Privacy, MPC, Fraud-proofs)
+<dl>
+<dd>
+<details>
+  <summary> See older: </summary>
+  <li><a href="https://github.com/timoth-y/elastic-bridge/blob/main/ElasticBridgePaper.pdf">Elastic-Bridge: trustless bridge for transferring rebase currencies</a> (Interoperability)</li>
+  <li><a href="https://medium.com/better-programming/how-to-implement-your-distributed-filesystem-with-glusterfs-and-kubernetes-83ee7f5f834f">How to Implement Your Distributed Filesystem With GlusterFS And Kubernetes</a> (DevOps)</li>
+   <li><a href="https://medium.com/better-programming/what-makes-go-so-different-eb0648498ce0">What Makes Go So Different?</a> (Programming)</li>
+</details>
+</dd>
+</dl>
 
 ## 📊 GitHub Stats
 
