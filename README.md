@@ -8,7 +8,6 @@ There are many things that I find interesting, but if picking those I focus on m
 
 I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
-
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current projects
 - [✅ **zk-timelock:** artworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
 - [✅ **tlock-rs:** practical time-lock encryption using `drand` threshold network](https://github.com/timoth-y/tlock-rs) (Rust)
@@ -63,23 +62,15 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 [language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=6&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
 [activity graph]: https://activity-graph.herokuapp.com/graph?username=timoth-y&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
 
+## 📬 Reach me
 
-## 🆔 Digital identity
-
-[![linked-in badge]][linked-in]
-[![medium badge]][medium]
-[![twitter badge]][twitter]
-[![keybase badge]][keybase]
-
-[linked-in]: https://www.linkedin.com/in/timoth-y
-[medium]: https://medium.com/@timoth-y
-[telegram]: https://t.me/timoth-y
-[twitter]: https://twitter.com/ethotim
-[keybase]: https://keybase.io/ethotim
+[![linked-in badge]](https://www.linkedin.com/in/timoth-y)
+[![medium badge]](https://medium.com/@timofe-y)
+[![twitter badge]](https://twitter.com/ethotim)
+[![keybase badge]](https://keybase.io/ethotim)
 
 [linked-in badge]: https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white
 [medium badge]: https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white
 [telegram badge]: https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white
 [twitter badge]: https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white
 [keybase badge]: https://img.shields.io/badge/Keybase-3663ea?&style=for-the-badge&logo=keybase&logoColor=white
-
