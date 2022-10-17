@@ -1,4 +1,4 @@
-<h1 align="right">
+<h1 align="center">
   Hey! I'm Timofey<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
 </h1>
 
