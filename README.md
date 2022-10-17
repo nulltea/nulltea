@@ -9,7 +9,7 @@ There are many things that I find interesting, but if picking those I focus on m
 I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
 
-## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40"> Current project
+## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current project
 - [✅ **zk-timelock:** artworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
 - [✅ **tlock-rs:** practical time-lock encryption using `drand` threshold network](https://github.com/timoth-y/tlock-rs) (Rust)
 - [✅ **zk-SQL:** prover engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL) (Circom, TypeScript)
@@ -26,6 +26,13 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 </details>
 </dd>
 </dl>
+
+## <img align="top" src="https://media.giphy.com/media/l4Ah2V9VDkRHCL7cE9/giphy.gif" width="30">Previous projects
+- [**chainmetric-iot:** embedded sensor system for publishing environment data onto the Hyperledger Fabric blockchain](https://github.com/timoth-y/chainmetric-iot) (Go)
+- [**chainmetric-app:** mobile app for the IoT-enabled supply chain blockchain](https://github.com/timoth-y/chainmetric-app) (Dart, Kotlin, Go)
+- [**fabnctl:** CLI for deploying HL Fabric chains to Kubernetes](https://github.com/timoth-y/fabnctl) (Go)
+- [**kicksware:** cloud-native microservice-based sneaker resale platform](https://github.com/timoth-y/kicksware-platform) (Go, C#)
+- more in the pinned repos 👇
 
 ## 📊 GitHub Stats
 
