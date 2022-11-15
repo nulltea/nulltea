@@ -2,7 +2,7 @@
   Hey! I'm Timofey<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
 </h1>
 
-I am an enthusiastic researcher in cryptography and distributed systems, who enjoys sharing his knowledge and neat findings 🤓 I design blockchain-oriented protocols and develop web3 infrastructure 🌉 
+I am an enthusiastic researcher in cryptography and distributed systems, who enjoys sharing his knowledge and neat findings 🤓 I design blockchain-oriented protocols and develop web3 infrastructure 🏗️
 
 There are many things that I find interesting, but if picking those I focus on most, then it would be: 1️⃣ verifiable and private computation w/ **ZK** and **MPC** 2️⃣ secure blockchain scaling w/ **data-availability sampling (DAS)**, and 3️⃣ chain and network layer **privacy**.
 
