@@ -9,6 +9,7 @@ There are many things that I find interesting, but if picking those I focus on m
 I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current projects
+- [✅ **spy-pets:** universal covert privacy-enhancing transactions](https://github.com/timoth-y/spy-pets) (Rust)
 - [🚧 **das-prototype:** research prototypes of Data Availability Sampling for Ethereum (WIP)](https://github.com/ChainSafe/das-prototype) (Rust)
 - [✅ **zk-timelock:** artworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
 - [✅ **tlock-rs:** practical time-lock encryption using `drand` threshold network](https://github.com/timoth-y/tlock-rs) (Rust)
@@ -35,6 +36,7 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 - See more in the pinned repos 👇
 
 ## <img align="top" src="https://media.giphy.com/media/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="30"> Publications
+- [S𝛑PETs: Sustainable Practically Indistinguishable Privacy-Enhanced Transactions](https://github.com/timoth-y/spy-pets/blob/main/paper/SpyPETs.pdf) (Privacy)
 - [A Defense-in-Depth Approach: Notes on Sygma Security](https://medium.com/buildwithsygma/a-defense-in-depth-approach-notes-on-sygma-security-af7521c79ddb) (Security, MPC)
 - [Multi-Party Computation: The Next Generation of Crypto Security](https://medium.com/buildwithsygma/multi-party-computation-the-next-generation-of-crypto-security-d83d60d622d0) (MPC)
 - [Offchain and Scriptless Mixer](https://ethresear.ch/t/offchain-and-scriptless-mixer/12851) (Privacy, MPC, Fraud-proofs)
