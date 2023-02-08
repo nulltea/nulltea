@@ -67,7 +67,7 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 
 ## 📬 Reach me
 
-[![twitter badge]](https://twitter.com/timoftime)
+[![twitter badge]](https://twitter.com/timeoftim)
 [![linked-in badge]](https://www.linkedin.com/in/timoftime)
 [![medium badge]](https://medium.com/@timoftime)
 [![keybase badge]](https://keybase.io/ethotim)
