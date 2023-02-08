@@ -61,9 +61,9 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 
 [timothy-user]: https://github.com/timoth-y/timoth-y
 
-[stats widget]: https://github-readme-stats.vercel.app/api?username=timoth-y&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=Timothy's%20GitHub%20Stats
-[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=timoth-y&langs_count=6&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
-[activity graph]: https://activity-graph.herokuapp.com/graph?username=timoth-y&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
+[stats widget]: https://github-readme-stats.vercel.app/api?username=time4tim&hide=issues&show_icons=true&line_height=25&count_private=true&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&hide_border=true&custom_title=Timothy's%20GitHub%20Stats
+[language widget]: https://github-readme-stats.vercel.app/api/top-langs/?username=time4tim&langs_count=6&hide=css,html,less&line_height=25&title_color=C9D1D9&text_color=c9cacc&icon_color=04AFD3&bg_color=121820&count_private=true&hide_border=true&layout=compact&card_width=265
+[activity graph]: https://activity-graph.herokuapp.com/graph?username=time4tim&bg_color=0D1117&title_color=C9D1D9&color=c9cacc&line=04AFD3&point=04AFD3&hide_border=true&custom_title=Timothy's%20Contribution%20Graph
 
 ## 📬 Reach me
 
