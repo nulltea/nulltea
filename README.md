@@ -38,7 +38,7 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 ## <img align="top" src="https://media.giphy.com/media/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="30"> Publications
 - [Developer's Guide to Application-Specific Elliptic Curves](https://solutions.chainsafe.io/blog/application-specific-curves) (Cryptography, ZK)
 - [S𝛑PETs: Sustainable Practically Indistinguishable Privacy-Enhanced Transactions](https://github.com/timoth-y/spy-pets/blob/main/paper/SpyPETs.pdf) (Privacy)
-- [A Defense-in-Depth Approach: Notes on Sygma Security](https://medium.com/buildwithsygma/a-defense-in-depth-approach-notes-on-sygma-security-af7521c79ddb) (Security, MPC)
+- [Multi-Party Computation: The Next Generation of Crypto Security](https://medium.com/buildwithsygma/multi-party-computation-the-next-generation-of-crypto-security-d83d60d622d0) (MPC, Security)
 - [Offchain and Scriptless Mixer](https://ethresear.ch/t/offchain-and-scriptless-mixer/12851) (Privacy, MPC, Fraud-proofs)
 <dl>
 <dd>
