@@ -4,7 +4,10 @@
 
 I am an enthusiastic researcher in cryptography and distributed systems, who enjoys sharing his knowledge and neat findings 🤓 I design blockchain-oriented protocols and develop web3 infrastructure 🏗️
 
-There are many things that I find interesting, but if picking those I focus on most, then it would be: 1️⃣ verifiable and private computation w/ **ZK** and **MPC** 2️⃣ secure blockchain scaling w/ **data-availability sampling (DAS)**, and 3️⃣ chain and network layer **privacy**.
+There are many things that I find interesting, but if picking those I focus on most, then it would be: 
+- 1️⃣ verifiable and private computation with **ZK** and **MPC** 
+- 2️⃣ secure blockchain scaling with **data-availability sampling (DAS)**
+- 3️⃣ chain and network layer **privacy**.
 
 I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
