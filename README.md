@@ -31,12 +31,12 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 </dd>
 </dl>
 
-## <img align="top" src="https://media.giphy.com/media/l4Ah2V9VDkRHCL7cE9/giphy.gif" width="30"> Previous projects
+<!-- ## <img align="top" src="https://media.giphy.com/media/l4Ah2V9VDkRHCL7cE9/giphy.gif" width="30"> Previous projects
 - [**chainmetric-iot:** embedded sensor system for publishing environment data onto the Hyperledger Fabric blockchain](https://github.com/timoth-y/chainmetric-iot) (Go)
 - [**chainmetric-app:** mobile app for the IoT-enabled supply chain blockchain](https://github.com/timoth-y/chainmetric-app) (Dart, Kotlin, Go)
 - [**fabnctl:** CLI for deploying HL Fabric chains to Kubernetes](https://github.com/timoth-y/fabnctl) (Go)
 - [**kicksware:** cloud-native microservice-based sneaker resale platform](https://github.com/timoth-y/kicksware-platform) (Go, C#)
-- See more in the pinned repos 👇
+- See more in the pinned repos 👇 -->
 
 ## <img align="top" src="https://media.giphy.com/media/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="30"> Publications
 - [Developer's Guide to Application-Specific Elliptic Curves](https://solutions.chainsafe.io/blog/application-specific-curves) (Cryptography, ZK)
