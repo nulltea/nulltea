@@ -70,8 +70,8 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 
 ## 📬 Reach me
 
-[![twitter badge]](https://twitter.com/tim0ftime)
-[![linked-in badge]](https://www.linkedin.com/in/timoftime)
+[![twitter badge]](https://twitter.com/timoethey)
+[![linked-in badge]](https://www.linkedin.com/in/timofeyy)
 [![medium badge]](https://medium.com/@timoftime)
 [![keybase badge]](https://keybase.io/ethotim)
 
