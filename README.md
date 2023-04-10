@@ -15,7 +15,6 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 - [✅ **spy-pets:** universal covert privacy-enhancing transactions](https://github.com/timoth-y/spy-pets) (Rust)
 - [🚧 **das-prototype:** research prototypes of Data Availability Sampling for Ethereum (WIP)](https://github.com/ChainSafe/das-prototype) (Rust)
 - [✅ **zk-timelock:** arkworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
-- [✅ **tlock-rs:** practical time-lock encryption using `drand` threshold network](https://github.com/timoth-y/tlock-rs) (Rust)
 - [✅ **zk-SQL:** prover engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL) (Circom, TypeScript)
 - [✅ **tss-libp2p:** rust-libp2p transport for {t,n}-threshold signature schemes](https://github.com/timoth-y/tss-libp2p) (Rust)
 <dl>
