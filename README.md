@@ -21,7 +21,8 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 <dd>
 <details>
 <summary> 👀 See more: </summary>
-	<li><a href="https://github.com/timoth-y/two-party-adaptor">✅ <b>2-party-adaptor:</b> joint adaptor signatures generation </a> (Rust)</li>
+  <li><a href="https://github.com/timoth-y/tlock-rs">✅ <b>tlock-rs:</b> practical time-lock encryption using drand threshold network </a> (Rust)</li>
+  <li><a href="https://github.com/timoth-y/two-party-adaptor">✅ <b>2-party-adaptor:</b> joint adaptor signatures generation </a> (Rust)</li>
   <li><a href="https://github.com/timoth-y/contangle-zkcp">❄️ <b>contangle-zkcp:</b> universal zero-knowledge contingent payments </a> (Rust)</li>
   <li><a href="https://github.com/ChainSafe/go-signature-adaptor">✅ <b>go-signature-adaptor:</b> pure Go implementation of ECDSA signature adaptors</a> (Go)</li>
   <li><a href="https://github.com/timoth-y/obsidian-ticktick">❄️ <b>obsidian-ticktick:</b> sync Obsidian checklists with TickTick</a> (TypeScript)</li>
