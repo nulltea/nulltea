@@ -12,6 +12,7 @@ There are many things that I find interesting, but if picking those I focus on m
 I find inspiration from 👥 talking with open-minded people, 🎨 spectating different kinds of modern digital art, and 🪐 discovering science and mysteries of our universe. 👉 I value open-source, rights to privacy, and simple human kindness 🤗
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current projects
+- [✅ **recursive-zk-bridge:** prototype IVC circuits for proof-of-consensus based header oracles.](https://github.com/ChainSafe/recursive-zk-bridge) (Rust)
 - [✅ **spy-pets:** universal covert privacy-enhancing transactions](https://github.com/timoth-y/spy-pets) (Rust)
 - [✅ **das-prototype:** research prototypes of Data Availability Sampling for Ethereum (WIP)](https://github.com/ChainSafe/das-prototype) (Rust)
 - [✅ **zk-timelock:** arkworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
