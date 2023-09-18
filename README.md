@@ -14,7 +14,6 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Current projects
 - [✅ **recursive-zk-bridge:** prototype IVC circuits for proof-of-consensus based header oracles.](https://github.com/ChainSafe/recursive-zk-bridge) (Rust)
 - [✅ **spy-pets:** universal covert privacy-enhancing transactions](https://github.com/timoth-y/spy-pets) (Rust)
-- [✅ **das-prototype:** research prototypes of Data Availability Sampling for Ethereum (WIP)](https://github.com/ChainSafe/das-prototype) (Rust)
 - [✅ **zk-timelock:** arkworks circuits for verifiable time-lock encryption](https://github.com/timoth-y/zk-timelock) (Rust)
 - [✅ **zk-SQL:** prover engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL) (Circom, TypeScript)
 - [✅ **tss-libp2p:** rust-libp2p transport for {t,n}-threshold signature schemes](https://github.com/timoth-y/tss-libp2p) (Rust)
@@ -22,6 +21,7 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 <dd>
 <details>
 <summary> 👀 See more: </summary>
+  <li><a href="https://github.com/ChainSafe/das-prototype">✅ <b>das-prototype:</b> research prototypes of Data Availability Sampling for Ethereum </a> (Rust)</li>
   <li><a href="https://github.com/timoth-y/tlock-rs">✅ <b>tlock-rs:</b> practical time-lock encryption using drand threshold network </a> (Rust)</li>
   <li><a href="https://github.com/timoth-y/two-party-adaptor">✅ <b>2-party-adaptor:</b> joint adaptor signatures generation </a> (Rust)</li>
   <li><a href="https://github.com/timoth-y/contangle-zkcp">❄️ <b>contangle-zkcp:</b> universal zero-knowledge contingent payments </a> (Rust)</li>
@@ -41,6 +41,7 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 
 ## <img align="top" src="https://media.giphy.com/media/p0Ac5EAhR9pm8uLMlQ/giphy.gif" width="30"> Publications
 - [Developer's Guide to Application-Specific Elliptic Curves](https://solutions.chainsafe.io/blog/application-specific-curves) (Cryptography, ZK)
+- [Data Availability Sampling - Research Memo](https://hackmd.io/@timofey/SyqzhA4vo) (Scaling)
 - [S𝛑PETs: Sustainable Practically Indistinguishable Privacy-Enhanced Transactions](https://github.com/timoth-y/spy-pets/blob/main/paper/SpyPETs.pdf) (Privacy)
 - [Multi-Party Computation: The Next Generation of Crypto Security](https://medium.com/buildwithsygma/multi-party-computation-the-next-generation-of-crypto-security-d83d60d622d0) (MPC, Security)
 - [Offchain and Scriptless Mixer](https://ethresear.ch/t/offchain-and-scriptless-mixer/12851) (Privacy, MPC, Fraud-proofs)
