@@ -56,10 +56,10 @@ I find inspiration from 👥 talking with open-minded people, 🎨 spectating di
 </dd>
 </dl>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-[![stats widget]][timothy-user]
-[![language widget]][timothy-user]
+<!-- [![stats widget]][timothy-user] -->
+<!-- [![language widget]][timothy-user] -->
 <!-- [![activity graph]][timothy-user] -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
