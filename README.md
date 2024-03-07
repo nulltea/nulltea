@@ -1,4 +1,4 @@
-### 0️⃣☕️
+### 0️⃣ ☕️
 research engineer focusing on cryptography (zk, mpc), decentralized/p2p systems, and privacy.
 
 ### reach out
