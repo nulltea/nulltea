@@ -2,7 +2,7 @@
 
 research engineer focusing on cryptography (zk, mpc), decentralized/p2p systems, and privacy
 
-working at [СhainSafe](https://github.com/ChainSafe)
+currently working at [СhainSafe](https://github.com/ChainSafe)
 
 ### reach out
 - twitter: [@timoethey](https://twitter.com/timoethey)
