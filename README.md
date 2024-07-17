@@ -11,6 +11,7 @@ currently working at [СhainSafe](https://github.com/ChainSafe)
 - keybase: [ethotim](https://keybase.io/ethotim)
 
 ### writings:
+- [understanding GKR](https://solutions.chainsafe.io/blog/gkr)
 - [developer's guide to application-specific elliptic curves](https://solutions.chainsafe.io/blog/application-specific-curves)
 - [data availability sampling - research memo](https://hackmd.io/@timofey/SyqzhA4vo)
 - [s𝛑pets: sustainable practically indistinguishable privacy-enhanced transactions](https://github.com/timoth-y/spy-pets/blob/main/paper/SpyPETs.pdf)
