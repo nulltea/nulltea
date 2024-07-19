@@ -15,7 +15,7 @@ currently working at [СhainSafe](https://github.com/ChainSafe)
 - [developer's guide to application-specific elliptic curves](https://solutions.chainsafe.io/blog/application-specific-curves)
 - [data availability sampling - research memo](https://hackmd.io/@timofey/SyqzhA4vo)
 - [s𝛑pets: sustainable practically indistinguishable privacy-enhanced transactions](https://github.com/timoth-y/spy-pets/blob/main/paper/SpyPETs.pdf)
-- [multi-party computation: the next generation of crypto security](https://medium.com/buildwithsygma/multi-party-computation-the-next-generation-of-crypto-security-d83d60d622d0)
+- [multi-party computation: the next generation of crypto security](https://solutions.chainsafe.io/blog/secure-mpc)
 - [offchain and scriptless mixer](https://ethresear.ch/t/offchain-and-scriptless-mixer/12851)
 
 ### featured projects ⤵
