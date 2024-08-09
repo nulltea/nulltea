@@ -10,7 +10,7 @@ currently working at [СhainSafe](https://github.com/ChainSafe)
 - linkedin: [in/timofeyy](https://www.linkedin.com/in/timofeyy)
 - keybase: [ethotim](https://keybase.io/ethotim)
 
-### writings:
+### writings
 - [yet another circle STARK tutorial](https://solutions-hub.pages.dev/blog/circle-starks)
 - [understanding GKR](https://taueflambda.dev/posts/gkr)
 - [developer's guide to application-specific elliptic curves](https://taueflambda.dev/posts/app-specific-curves/)
