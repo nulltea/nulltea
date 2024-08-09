@@ -11,7 +11,7 @@ currently working at [СhainSafe](https://github.com/ChainSafe)
 - keybase: [ethotim](https://keybase.io/ethotim)
 
 ### writings
-- [yet another circle STARK tutorial](https://solutions-hub.pages.dev/blog/circle-starks)
+- [yet another circle STARK tutorial](https://solutions.chainsafe.io/blog/circle-starks)
 - [understanding GKR](https://taueflambda.dev/posts/gkr)
 - [developer's guide to application-specific elliptic curves](https://taueflambda.dev/posts/app-specific-curves/)
 - [data availability sampling - research memo](https://hackmd.io/@timofey/SyqzhA4vo)
