@@ -11,6 +11,7 @@ currently working at [СhainSafe](https://github.com/ChainSafe)
 - keybase: [ethotim](https://keybase.io/ethotim)
 
 ### writings
+- ["SoK: Confidential Transformer Inference and Retrieval-Augmented Generation" (ePrint 2026/1544)](https://eprint.iacr.org/2026/1544)
 - [yet another circle STARK tutorial](https://solutions.chainsafe.io/blog/circle-starks)
 - [understanding GKR](https://taueflambda.dev/posts/gkr)
 - [developer's guide to application-specific elliptic curves](https://taueflambda.dev/posts/app-specific-curves/)
